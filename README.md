@@ -42,6 +42,6 @@ Para garantir a **reprodutibilidade total** e a continuidade da pesquisa, este r
 *   **Mecanismo de Fallback:** O pipeline de dados possui uma lógica de fallback. Caso a API oficial do Governo (**ComexStat**) esteja instável ou inacessível no momento da execução, o script carregará automaticamente os dados locais para processamento.
 
 ---
-**Autor:** TheOneHP  
+**Autor:** Hiago Pereira  
 **Instituição:** Universidade Federal de Roraima (UFRR)  
 **Contexto:** Artigo Científico - ECAI v2
